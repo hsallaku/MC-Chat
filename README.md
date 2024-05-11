@@ -1,15 +1,37 @@
 # MC-Chat
 
-MC-Chat is a modern, cross-platform messaging application designed to facilitate seamless communication. Built with React Native and leveraging Firebase for real-time data synchronization and authentication, MC-Chat offers a rich set of features tailored for an engaging user experience across iOS, Android, and web platforms.
+MC-Chat is a messaging platform designed for Manhattan College, facilitating secure and versatile communication channels for students and faculty members. Built with React Native and leveraging Firebase for real-time data synchronization and authentication, MC-Chat offers a multitude of features, bringing a full package chatting application for all users across iOS, Android, and web platforms.
 
-## Features
+## Key Features
 
-- **Cross-Platform Support:** Enjoy a consistent user experience across all your devices.
-- **Real-Time Messaging:** Send and receive messages instantly with real-time updates.
-- **Multimedia Support:** Share images, videos, and other media with ease.
-- **Customizable Themes:** Choose between light and dark themes for personalized comfort.
-- **Language Support:** Available in multiple languages, making it accessible to a wider audience.
-- **Privacy and Security:** Advanced security features to keep your conversations private.
+### Secure Registration and Authentication
+- **Official Email Registration:** Sign up exclusively with Manhattan College email addresses.
+- **Streamlined Login Process:** Access the system with your registered email and password.
+- **Password Recovery:** Utilize the 'Forgot My Password' feature for secure password resets.
+
+### Comprehensive Profile Management
+- **Customizable Profiles:** Add personal details such as Major, Graduation Year, Department, and Title.
+- **Communication Preferences:** Opt-in or out of voice messaging and live video/voice chats.
+- **Profanity Filter:** Enable or disable the profanity filter for personalized communication standards.
+
+### Versatile Messaging Capabilities
+- **Private and Group Messaging:** Exchange text and voice messages or engage in private voice and video chats.
+- **Administrative Controls:** Create chat rooms with robust permissions and appoint moderators or co-administrators.
+- **Media Sharing:** Share files, images, voice messages, and emojis across formats.
+
+### User Directory and Social Features
+- **Accessible User Directory:** Browse a list of verified users, with options to block or friend for personalized interaction.
+- **Friend Requests:** Manage incoming friend requests, fostering a connected community.
+
+### Advanced Content Moderation
+- **User Blocking and Reporting:** Block users and report inappropriate content to maintain a safe environment.
+- **Automatic Content Review:** Content flagged by multiple users is obscured pending administrative review.
+
+### AI-Assisted Messaging
+- **Smart Reply Suggestions:** Utilize AI-generated responses for efficient communication.
+
+### Real-Time Notifications
+- **Stay Updated:** Receive instant notifications for messages, friend requests, and other alerts.
 
 ## Getting Started
 
@@ -25,28 +47,21 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 git clone https://github.com/hsallaku/mc-chat.git
 
-Copy code
 2. Navigate to the project directory:
 cd mc-chat
 
-Copy code
 3. Install dependencies:
 npm install
 
-Copy code
 or if you're using Yarn:
 yarn install
-
-Copy code
 
 ### Running the App
 
 To start the development server and run the app:
-expo start
+npx expo start
 
-Copy code
-
-You can then open the app on your device using the Expo app or run it in a simulator/emulator.
+You can then open the app using the Expo app which will require you to either enter the generated URL or you could simply scan the QR code generated in the terminal. Alternatively you could use an emulator.
 
 ## Project Structure
 
