@@ -11,7 +11,6 @@ MC-Chat is a messaging platform designed for Manhattan College, facilitating sec
 
 ### Comprehensive Profile Management
 - **Customizable Profiles:** Add personal details such as Major, Graduation Year, Department, and Title.
-- **Communication Preferences:** Opt-in or out of voice messaging and live video/voice chats.
 - **Profanity Filter:** Enable or disable the profanity filter for personalized communication standards.
 
 ### Versatile Messaging Capabilities
