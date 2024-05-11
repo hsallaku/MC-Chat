@@ -45,21 +45,21 @@ Before you begin, ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/hsallaku/mc-chat.git
+```git clone https://github.com/hsallaku/mc-chat```
 
 2. Navigate to the project directory:
-cd mc-chat
+```cd mc-chat```
 
 3. Install dependencies:
-npm install
+```npm install```
 
 or if you're using Yarn:
-yarn install
+```yarn install```
 
 ### Running the App
 
 To start the development server and run the app:
-npx expo start
+```npx expo start```
 
 You can then open the app using the Expo app which will require you to either enter the generated URL or you could simply scan the QR code generated in the terminal. Alternatively you could use an emulator.
 
