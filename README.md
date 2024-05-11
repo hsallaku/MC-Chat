@@ -61,7 +61,7 @@ or if you're using Yarn:
 To start the development server and run the app:
 ```npx expo start```
 
-You can then open the app using the Expo app which will require you to either enter the generated URL or you could simply scan the QR code generated in the terminal. Alternatively you could use an emulator.
+You can then open the app in your device by using the Expo app which will require you to either enter the generated URL or you could simply scan the QR code generated in the terminal. Alternatively, if not your personal device you could use an emulator with the Expo app installed to do the same thing.
 
 ## Project Structure
 
