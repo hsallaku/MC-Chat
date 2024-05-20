@@ -51,10 +51,7 @@ Before you begin, ensure you have the following installed:
 ```cd mc-chat```
 
 3. Install dependencies:
-```npm install```
-
-or if you're using Yarn:
-```yarn install```
+```npm install``` or if you're using Yarn: ```yarn install```
 
 ### Running the App
 
