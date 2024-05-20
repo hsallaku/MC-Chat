@@ -40,6 +40,7 @@ Before you begin, ensure you have the following installed:
 - Node.js
 - npm or Yarn
 - Expo CLI
+- Expo Go App on your mobile device/emulator
 
 ### Installation
 
