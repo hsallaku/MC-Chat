@@ -1,36 +1,36 @@
 # MC-Chat
 
-MC-Chat is a messaging platform designed for Manhattan College, facilitating secure and versatile communication channels for students and faculty members. Built with React Native and leveraging Firebase for real-time data synchronization and authentication, MC-Chat offers a multitude of features, bringing a full package chatting application for all users across iOS, Android, and web platforms.
+MC-Chat is a messaging platform designed for Manhattan College, offering secure and convenient communication for students and faculty members. Built with React Native and leveraging Firebase for real-time data synchronization and authentication, MC-Chat offers a multitude of features, bringing a full package chatting application for all users across iOS and Android.
 
 ## Key Features
 
 ### Secure Registration and Authentication
-- **Official Email Registration:** Sign up exclusively with Manhattan College email addresses.
-- **Streamlined Login Process:** Access the system with your registered email and password.
-- **Password Recovery:** Utilize the 'Forgot My Password' feature for secure password resets.
-
+- **Sign up exclusively with Manhattan College email addresses.** 
+- **Access the system with your registered email and password.**
+- **Utilize the 'Forgot My Password' feature for secure password resets.**
+   
 ### Comprehensive Profile Management
-- **Customizable Profiles:** Add personal details such as Major, Graduation Year, Department, and Title.
-- **Profanity Filter:** Enable or disable the profanity filter for personalized communication standards.
+- **Add personal details such as Major, Graduation Year, Department, and Title.** 
+- **An optional profanity filter for professional standards.** 
 
 ### Versatile Messaging Capabilities
-- **Private and Group Messaging:** Exchange text and voice messages or engage in private voice and video chats.
-- **Administrative Controls:** Create chat rooms with robust permissions and appoint moderators or co-administrators.
-- **Media Sharing:** Share files, images, voice messages, and emojis across formats.
+- **Exchange text and voice messages or engage in private voice and video chats.** 
+- **Create chat rooms with robust permissions and appoint moderators or co-administrators.** 
+- **Share files, images, voice messages, and emojis across formats.** 
 
 ### User Directory and Social Features
-- **Accessible User Directory:** Browse a list of verified users, with options to block or friend for personalized interaction.
-- **Friend Requests:** Manage incoming friend requests, fostering a connected community.
-
+- **Browse a list of verified users, with options to block or friend for personalized interaction.** 
+- **Manage incoming friend requests, fostering a connected community.**
+   
 ### Advanced Content Moderation
-- **User Blocking and Reporting:** Block users and report inappropriate content to maintain a safe environment.
-- **Automatic Content Review:** Content flagged by multiple users is obscured pending administrative review.
+- **Block users and report inappropriate content to maintain a safe environment.** 
+- **Content flagged by multiple users is obscured pending administrative review.** 
 
 ### AI-Assisted Messaging
-- **Smart Reply Suggestions:** Utilize AI-generated responses for efficient communication.
+- **With the click of a button you can have AI-generated responses custom tailored to your current chat/conversation.** 
 
 ### Real-Time Notifications
-- **Stay Updated:** Receive instant notifications for messages, friend requests, and other alerts.
+- **Receive instant notifications for messages, friend requests, and other alerts.** 
 
 ## Getting Started
 
@@ -40,6 +40,7 @@ Before you begin, ensure you have the following installed:
 - Node.js
 - npm or Yarn
 - Expo CLI
+- Expo Go App on your mobile device/emulator
 
 ### Installation
 
@@ -50,10 +51,7 @@ Before you begin, ensure you have the following installed:
 ```cd mc-chat```
 
 3. Install dependencies:
-```npm install```
-
-or if you're using Yarn:
-```yarn install```
+```npm install``` or if you're using Yarn ```yarn install```
 
 ### Running the App
 
@@ -72,7 +70,7 @@ You can then open the app in your device by using the Expo app which will requir
 
 ## Contributors
 
-Special thanks to the amazing people who have contributed to this project:
+Special thanks to the amazing people who have collaborated with me on this project:
 
 - Gary LaPicola
 - Thomas Scardino
