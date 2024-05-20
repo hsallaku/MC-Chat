@@ -1,6 +1,6 @@
 # MC-Chat
 
-MC-Chat is a messaging platform designed for Manhattan College, facilitating secure and versatile communication channels for students and faculty members. Built with React Native and leveraging Firebase for real-time data synchronization and authentication, MC-Chat offers a multitude of features, bringing a full package chatting application for all users across iOS, Android, and web platforms.
+MC-Chat is a messaging platform designed for Manhattan College, offering secure and convenient communication for students and faculty members. Built with React Native and leveraging Firebase for real-time data synchronization and authentication, MC-Chat offers a multitude of features, bringing a full package chatting application for all users across iOS, Android, and web platforms.
 
 ## Key Features
 
