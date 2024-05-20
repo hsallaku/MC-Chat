@@ -70,7 +70,7 @@ You can then open the app in your device by using the Expo app which will requir
 
 ## Contributors
 
-Special thanks to the amazing people who have contributed to this project:
+Special thanks to the amazing people who have collaborated with me on this project:
 
 - Gary LaPicola
 - Thomas Scardino
