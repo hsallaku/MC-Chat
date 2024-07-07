@@ -36,94 +36,56 @@ MC-Chat is a messaging platform designed for Manhattan College, offering secure 
 
 ### Registration and Login
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 10px;">
-    <h4>Registration</h4>
-    <img src="images/registration.jpg" alt="Registration" style="width: 100%;">
-  </div>
-  <div style="flex: 1; margin-right: 10px;">
-    <h4>Login</h4>
-    <img src="images/login.jpg" alt="Login" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <h4>Forgot Password</h4>
-    <img src="images/forgotpassword.jpg" alt="Forgot Password" style="width: 100%;">
-  </div>
-</div>
+#### Registration
+<img src="images/registration.jpg" alt="Registration" width="300">
+
+#### Login
+<img src="images/login.jpg" alt="Login" width="300">
+
+#### Forgot Password
+<img src="images/forgotpassword.jpg" alt="Forgot Password" width="300">
 
 ### Profile Setup
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
-    <h4>Profile Settings</h4>
-    <img src="images/profilesettings.jpg" alt="Profile Settings" style="width: 100%;">
-  </div>
-</div>
+#### Profile Settings
+<img src="images/profilesettings.jpg" alt="Profile Settings" width="300">
 
 ### Chat Functionality
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 10px;">
-    <h4>Chats View</h4>
-    <img src="images/chatsview.jpg" alt="Chats View" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <h4>Chat Menu</h4>
-    <img src="images/chatsviewmenu.jpg" alt="Chat Menu" style="width: 100%;">
-  </div>
-</div>
+#### Chats View
+<img src="images/chatsview.jpg" alt="Chats View" width="300">
+
+#### Chat Menu
+<img src="images/chatsviewmenu.jpg" alt="Chat Menu" width="300">
 
 ### Friends and Requests
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
-    <h4>Friend Requests</h4>
-    <img src="images/friendrequests.jpg" alt="Friend Requests" style="width: 100%;">
-  </div>
-</div>
+#### Friend Requests
+<img src="images/friendrequests.jpg" alt="Friend Requests" width="300">
 
 ### Directory and Contacts
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
-    <h4>Directory View</h4>
-    <img src="images/directoryview.jpg" alt="Directory View" style="width: 100%;">
-  </div>
-</div>
+#### Directory View
+<img src="images/directoryview.jpg" alt="Directory View" width="300">
 
 ### Group Chats and Rooms
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin-right: 10px;">
-    <h4>Rooms Creation</h4>
-    <img src="images/roomscreation.jpg" alt="Rooms Creation" style="width: 100%;">
-  </div>
-  <div style="flex: 1; margin-right: 10px;">
-    <h4>Rooms Interface</h4>
-    <img src="images/roomsinterface.jpg" alt="Rooms Interface" style="width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <h4>Rooms Menu</h4>
-    <img src="images/roomsmenu.jpg" alt="Rooms Menu" style="width: 100%;">
-  </div>
-</div>
+#### Rooms Creation
+<img src="images/roomscreation.jpg" alt="Rooms Creation" width="300">
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
-    <h4>Rooms View</h4>
-    <img src="images/roomsview.jpg" alt="Rooms View" style="width: 100%;">
-  </div>
-</div>
+#### Rooms Interface
+<img src="images/roomsinterface.jpg" alt="Rooms Interface" width="300">
+
+#### Rooms Menu
+<img src="images/roomsmenu.jpg" alt="Rooms Menu" width="300">
+
+#### Rooms View
+<img src="images/roomsview.jpg" alt="Rooms View" width="300">
 
 ### Application Settings
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1;">
-    <h4>App Settings View</h4>
-    <img src="images/appsettingsview.jpg" alt="App Settings View" style="width: 100%;">
-  </div>
-</div>
-
+#### App Settings View
+<img src="images/appsettingsview.jpg" alt="App Settings View" width="300">
 
 ## Getting Started
 
