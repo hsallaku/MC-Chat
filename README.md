@@ -35,57 +35,50 @@ MC-Chat is a messaging platform designed for Manhattan College, offering secure 
 ## Screenshots
 
 ### Registration and Login
-
 #### Registration
-<img src="images/registration.jpg" alt="Registration" width="300">
+![Registration](images/registration.jpg)
 
 #### Login
-<img src="images/login.jpg" alt="Login" width="300">
+![Login](images/login.jpg)
 
 #### Forgot Password
-<img src="images/forgotpassword.jpg" alt="Forgot Password" width="300">
+![Forgot Password](images/forgotpassword.jpg)
 
 ### Profile Setup
-
 #### Profile Settings
-<img src="images/profilesettings.jpg" alt="Profile Settings" width="300">
+![Profile Settings](images/profilesettings.jpg)
 
 ### Chat Functionality
-
 #### Chats View
-<img src="images/chatsview.jpg" alt="Chats View" width="300">
+![Chats View](images/chatsview.jpg)
 
 #### Chat Menu
-<img src="images/chatsviewmenu.jpg" alt="Chat Menu" width="300">
+![Chat Menu](images/chatsviewmenu.jpg)
 
 ### Friends and Requests
-
 #### Friend Requests
-<img src="images/friendrequests.jpg" alt="Friend Requests" width="300">
+![Friend Requests](images/friendrequests.jpg)
 
 ### Directory and Contacts
-
 #### Directory View
-<img src="images/directoryview.jpg" alt="Directory View" width="300">
+![Directory View](images/directoryview.jpg)
 
 ### Group Chats and Rooms
-
 #### Rooms Creation
-<img src="images/roomscreation.jpg" alt="Rooms Creation" width="300">
+![Rooms Creation](images/roomscreation.jpg)
 
 #### Rooms Interface
-<img src="images/roomsinterface.jpg" alt="Rooms Interface" width="300">
+![Rooms Interface](images/roomsinterface.jpg)
 
 #### Rooms Menu
-<img src="images/roomsmenu.jpg" alt="Rooms Menu" width="300">
+![Rooms Menu](images/roomsmenu.jpg)
 
 #### Rooms View
-<img src="images/roomsview.jpg" alt="Rooms View" width="300">
+![Rooms View](images/roomsview.jpg)
 
 ### Application Settings
-
 #### App Settings View
-<img src="images/appsettingsview.jpg" alt="App Settings View" width="300">
+![App Settings View](images/appsettingsview.jpg)
 
 ## Getting Started
 
