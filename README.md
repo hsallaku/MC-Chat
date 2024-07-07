@@ -32,6 +32,20 @@ MC-Chat is a messaging platform designed for Manhattan College, offering secure 
 ### Real-Time Notifications
 - **Receive instant notifications for messages, friend requests, and other alerts.** 
 
+## Screenshots
+
+### Sign up Screen
+![Home Screen](images/screenshot1.png)
+
+### Home Screen
+![Home Screen](images/screenshot2.png)
+
+### Chat Interface
+![Chat Interface](images/screenshot3.png)
+
+### User Profile Settings
+![User Profile Setup](images/screenshot4.png)
+
 ## Getting Started
 
 ### Prerequisites
