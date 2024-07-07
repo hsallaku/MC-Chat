@@ -34,17 +34,51 @@ MC-Chat is a messaging platform designed for Manhattan College, offering secure 
 
 ## Screenshots
 
-### Sign up Screen
-![Home Screen](images/screenshot1.png)
+### Registration and Login
+#### Registration
+![Registration](images/registration.jpg)
 
-### Home Screen
-![Home Screen](images/screenshot2.png)
+#### Login
+![Login](images/login.jpg)
 
-### Chat Interface
-![Chat Interface](images/screenshot3.png)
+#### Forgot Password
+![Forgot Password](images/forgotpassword.jpg)
 
-### User Profile Settings
-![User Profile Settings](images/screenshot4.png)
+### Profile Setup
+#### Profile Settings
+![Profile Settings](images/profilesettings.jpg)
+
+### Chat Functionality
+#### Chats View
+![Chats View](images/chatsview.jpg)
+
+#### Chat Menu
+![Chat Menu](images/chatsviewmenu.jpg)
+
+### Friends and Requests
+#### Friend Requests
+![Friend Requests](images/friendrequests.jpg)
+
+### Directory and Contacts
+#### Directory View
+![Directory View](images/directoryview.jpg)
+
+### Group Chats and Rooms
+#### Rooms Creation
+![Rooms Creation](images/roomscreation.jpg)
+
+#### Rooms Interface
+![Rooms Interface](images/roomsinterface.jpg)
+
+#### Rooms Menu
+![Rooms Menu](images/roomsmenu.jpg)
+
+#### Rooms View
+![Rooms View](images/roomsview.jpg)
+
+### Application Settings
+#### App Settings View
+![App Settings View](images/appsettingsview.jpg)
 
 ## Getting Started
 
